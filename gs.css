@@ -1,0 +1,13 @@
+.speech{font-family: "Times New Roman", Times, serif;font-size: 15px;color:black}
+.directions{font-family: Arial, Helvetica, sans-serif;font-size: 15px;color:black;background-color: lightblue;}
+.directions:hover{color:black;background-color: lightblue;}
+.COTTON{color:black}
+.BETTY{color:black}
+.ADONIJAH{color:black}
+table,th,td{border: 1px solid;padding-top: 12px;padding-bottom: 12px;text-align: center;}
+tr:hover {background-color: #ddd;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+th{background-color: #04AA6D;color:white}
+table{border-collapse: collapse}
+table{width:500px}
+table{margin: 1px 10px 75px 25px;}
