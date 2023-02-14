@@ -1,9 +1,15 @@
 .speech{font-family: "Times New Roman", Times, serif;font-size: 15px;color:black}
 .directions{font-family: Arial, Helvetica, sans-serif;font-size: 15px;color:black;background-color: lightblue;}
 .directions:hover{color:blue;background-color: lightblue;}
-.COTTON{color:black}
+.COTTON{color:black }
+.COTTON:hover{  color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;}
 .BETTY{color:black}
+.BETTY:hover{  color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;}
 .ADONIJAH{color:black}
+.ADONIJAH:hover{  color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;}
 table,th,td{border: 1px solid;padding-top: 12px;padding-bottom: 12px;text-align: center;}
 tr:hover {background-color: #ddd;}
 tr:nth-child(even) {background-color: #f2f2f2;}
@@ -11,3 +17,5 @@ th{background-color: #04AA6D;color:white}
 table{border-collapse: collapse}
 table{width:500px}
 table{margin: 1px 10px 75px 25px;}
+color: coral;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px bla
